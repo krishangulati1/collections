@@ -1,0 +1,20 @@
+Topics covered till ( 22/2/2019 )
+
+1. Control Statements
+2. Inheritance
+3. Overloading
+4. Overriding
+5. super, this, final, static
+6. Abstraction (abstract, interface)
+7. Package
+8. Access Modifiers
+9. Exception Handeling
+10. Multithreading
+
+----------------------------------------------------------------
+
+To cover
+
+1. Collection
+2. Garbage Collector 
+3. Inner Class (Anonymous, Local...)
